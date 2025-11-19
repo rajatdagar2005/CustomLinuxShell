@@ -65,5 +65,5 @@ The shell includes 14+ ready-made utility scripts:
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/custom-linux-shell.git
+git clone https://github.com/rajatdagar2005/custom-linux-shell.git
 cd custom-linux-shell
